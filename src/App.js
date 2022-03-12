@@ -6,7 +6,7 @@ import ListUsersComp from "./Component/ListUsersComp";
 import ListPostsComp from "./Component/ListPostsComp";
 import reactPractice from "./Component/reactPractice";
 
-
+// App Component
 function App() {
   const [test, setTest] = useState("");
   const [name, setName] = useState("");
