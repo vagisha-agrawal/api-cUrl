@@ -1,0 +1,44 @@
+.users-container {
+  min-height: 75vh;
+  position: relative;
+}
+
+.loader-container {
+  left: 50%;
+  top: 50%;
+  position: absolute;
+}
+
+.App {
+  text-align: center;
+}
+
+.genderIcon {
+  font-size: 30px;
+}
+
+.Spinner {
+  font-size: 20px;
+  width: 2em;
+  height: 2em;
+}
+
+.Spinner-div {
+  position: absolute;
+  left: 50%;
+  margin-top: 70px;
+  overflow: hidden;
+}
+
+.Spinner-div {
+  top: 40%;
+}
+
+Button {
+  position: relative;
+}
+
+table td:nth-child(3),
+td:nth-child(2) {
+  text-align: left;
+}
